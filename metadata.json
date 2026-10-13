@@ -1,0 +1,6 @@
+{
+  "name": "Chat 8",
+  "description": "AI streaming chat with calibrated reasoning, persona studio, and long-term memory vault",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
